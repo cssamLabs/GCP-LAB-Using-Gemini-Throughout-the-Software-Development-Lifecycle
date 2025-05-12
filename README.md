@@ -607,8 +607,6 @@ Wait for Gemini to provide SQL suggestions.
 View the results from the query.
 
 
-![alt text](images/Task9-4.png)
-
 ### Task 10. View logs with help from Gemini
 
 You can use Gemini to help operate and manage your services on Google Cloud. In this task, you follow instructions from Gemini to view logs for the inventory backend that runs on Cloud Run.
